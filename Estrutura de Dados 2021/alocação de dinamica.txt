@@ -1,0 +1,22 @@
+As Funções de Alocação Dinâmica em C
+	-Ponteiros fornecem o suporte necessário para o poderoso sistema de alocação
+	dinâmica de C.
+	-programa pode obter memória enquanto está em execução.
+	-A memória alocada pelas funções de alocação dinâmica de C é obtida do
+	heap 
+		— a região de memória livre que está entre seu programa e a área de armazenamento permanente e a pilha.
+	#funcões de alocação de memoria
+		-mallocO e free().
+		-A função malloc()aloca memória e free() a libera.
+		-Qualquer programa que use essas funções deve incluir o cabeçalho STDLIB.H.
+			- no caso fazer a chamada da biblioteca dela.
+		-A função mallocO tem este protótipo:
+			-void *malloc(size_t número_de bytes);
+		-O fragmento de código mostrado aqui aloca 1000 bytes de memória.
+			char *p;
+			p = malloc(1000); /* obtém 1000 bytes */
+		-Após a atribuição, p aponta para o primeiro dos 1000 bytes de memória livre.
+			O próximo exemplo aloca espaço para 50 inteiros. Observe o uso de sizeof para assegurar portabilidade.
+				int *p;
+				p = malloc(50*sizeof(int))
+			
