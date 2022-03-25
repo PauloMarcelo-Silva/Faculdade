@@ -1,0 +1,75 @@
+topicos tw games
+
+Game,"Rank","Month","Year","Hours_watched","Hours_Streamed","Peak_viewers","Peak_channels","Streamers","Avg_viewers","Avg_channels","Avg_viewer_ratio"
+
+Jogo, classificação, mês, ano, horas assistidas, horas de streaming, pico de espectadores, canais de pico, streamers, média de espectadores, canais médios, proporção média de espectadores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+perguntas :
+
+1: top 5 jogos da twitch q teve mais horas assitidas no ano de 2020?       (tw games)
+
+2: do top 10 de rank dos jogos mais assistidos  na plataforma twitch,quais mantiveram-se no rank de vizualizações entre 2016 e 2020? (tw games)
+
+3: comparando as vizualições de janeiro de 2016 com janeiro de 2021,quantas vizualizações janeiro de 2021 ganhou?  (tw global)
+
+4: comparando o ano de 2019 com o ano de 2020(antes e durante a pandemia),houve um aumento significativo de visulizações na plaforma de stremming twitch tv? (tw global)
+
+5: dos 5 streamers mais vizualizados da twitch tv,quais os 5 com a maior media de vizualização?  (tw users)
+
+6: Sabendo q o valor de pico de espectadores dos 3 maiores streamers em minutos assistidos é x,qual seria a média de minutos assistidos comparando com o pico de espectadores?  (tw users)
+
+
+grupo : 
+
+Paulo marcelo ribeiro soeiro da silva
+20190040030
+
+José Jonas Alves Assis
+20190175659
+
+Eduardo Henrique Pessoa Alves
+20190113119
+
+
+
+links : 
+
+https://www.kaggle.com/monal007/twitch-users-dataset (twitch users)
+
+https://www.kaggle.com/monal007/twitch-users-dataset (twitch games e global)
+
+INFORMAÇÕES DO PARTICIPANTE #1 (CCDDI2021)
+
+
+
+
+
+
+
+
+
